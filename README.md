@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm px
 
-<!--
-**pxdns/pxdns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=dev&center=true&width=500&height=50)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- i love gaming. i can like unblock websites js tell me if u want ⬇️ "contact me"
+
+---
+
+## 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+![Streak](https://streak-stats.demolab.com/?user=scammmmer2asdfa&theme=tokyonight)
+
+
+## 📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURNAME&theme=tokyo-night)
+
+
+![Visitors](https://komarev.com/ghpvc/?username=YOURNAME&color=blue)
+
+
+
+## Contact Me
+- Discord: err0r_37459
+- Website: https://tuffonline.vercel.app
+## most of my repos are private. most websites that is.
+---
