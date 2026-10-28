@@ -1,2 +1,2 @@
 
-![GitHub Profile Stats](./assets/cards.dark.svg)
+![GitHub Stats](./assets/overview.dark.svg)
