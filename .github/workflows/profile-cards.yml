@@ -13,16 +13,14 @@ jobs:
   cards:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: scammmmer2asdfa
-          cards: overview,repositories,contributions
-          layout: combined
+          cards: overview,repositories
           output-dir: assets
           themes: dark
           commit: true
