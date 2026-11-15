@@ -19,7 +19,7 @@ jobs:
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: scammmmer2asdfa
+          username: ${{ github.repository_owner }}
           cards: overview,repositories
           output-dir: assets
           themes: dark
